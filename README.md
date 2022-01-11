@@ -1,16 +1,16 @@
 # Kobold Fight Club:Archived
-----------------------------
+
 Archived for redundancy
 
 
 # Running a local server
-- # sudo pacman -S nodejs
-- # sudo pacman -S npm
-- # sudo npm install http-server
+- sudo pacman -S nodejs
+- sudo pacman -S npm
+- sudo npm install http-server
 
 Open the root folder and open a terminal
-- # npm run start (lots of warnings - unsure what they all mean)
-- # http-server
+- npm run start (lots of warnings - unsure what they all mean)
+- http-server
 
 ----------------------------
 Original instructions from forked repo (reference)
