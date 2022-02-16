@@ -1,6 +1,6 @@
 # Kobold Fight Club:Archived
 
-Archived for redundancy
+Recorded and Stored
 
 
 # Running a local server
