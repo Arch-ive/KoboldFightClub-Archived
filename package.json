@@ -58,7 +58,8 @@
     "watch-css": "gulp sass-watcher",
     "test": "karma start karma.conf.js",
     "test-single": "karma start karma.conf.js --single-run",
-    "watch-html": "nodemon -e html -x \"gulp template-cache\""
+    "watch-html": "nodemon -e html -x \"gulp template-cache\"",
+    "server": "http-server -c-1 -p 8080 -o"
   },
   "repository": {
     "type": "git",

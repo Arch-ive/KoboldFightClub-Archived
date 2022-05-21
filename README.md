@@ -1,6 +1,6 @@
 # Kobold Fight Club:Archived
 
-Recorded and Stored
+The upstream maintainers have rebooted this project elsewhere starting from scratch. This fork will remain as is; a true archive of what was.
 
 
 # Running a local server
@@ -9,13 +9,4 @@ Recorded and Stored
 - sudo npm install http-server
 
 Open the root folder and open a terminal
-- http-server
-
-Note: Running the script "npm run start" shows alot of issues with package dependancies. Wait for a fix upstream.
-
-----------------------------
-Original instructions from forked repo (reference)
-- npm install
-- npm run start - Start an http server for debugging on localhost
-- npm run build-css - Compile sass into css
-- npm run watch-css - Watch folder for changes and run build-css if needed
+- npm run server
